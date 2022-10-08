@@ -92,4 +92,9 @@ h2 {
     .result-container {
         font-size: .8rem;
     }
+    #length {
+        width: 2.4rem;
+        color: #fff;
+        font-weight: 500;
+    }
 }
